@@ -22,4 +22,4 @@ This project is designed for those who want to deepen their knowledge of **Objec
 ## 🚀 How to Use This Repository  
 1️⃣ **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/OOP-JAVA.git
+   git clone https://github.com/your-username/Java_OOP.git
